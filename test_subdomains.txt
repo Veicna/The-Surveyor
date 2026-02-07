@@ -1,0 +1,5 @@
+www.google.com
+mail.google.com
+drive.google.com
+calendar.google.com
+meet.google.com
